@@ -6,7 +6,6 @@ from textblob import TextBlob
 
 # ==========================================
 # 1. CORE LOGIC / NLP FUNCTIONS
-# ==========================================
 
 def summarize():
     # Fetch the target URL from the entry textbox
