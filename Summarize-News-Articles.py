@@ -4,7 +4,6 @@ from newspaper import Article
 import nltk
 from textblob import TextBlob
 
-# 1. CORE LOGIC 
 
 def summarize():
     # Fetch the target URL from the entry textbox
