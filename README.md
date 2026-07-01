@@ -14,5 +14,4 @@ A desktop GUI application built in Python that automatically scrapes online news
 * Newspaper3k (Web Scraping)
 * NLTK & TextBlob (Natural Language Processing)
 
-## Installation & Setup
    
