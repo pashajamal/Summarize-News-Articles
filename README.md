@@ -15,6 +15,4 @@ A desktop GUI application built in Python that automatically scrapes online news
 * NLTK & TextBlob (Natural Language Processing)
 
 ## Installation & Setup
-
-1. **Clone the repository:**
    
