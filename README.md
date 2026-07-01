@@ -17,5 +17,4 @@ A desktop GUI application built in Python that automatically scrapes online news
 ## Installation & Setup
 
 1. **Clone the repository:**
-   ```bash
    
