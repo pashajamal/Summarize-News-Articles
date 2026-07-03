@@ -56,7 +56,7 @@ def summarize():
 
 
 # ==========================================
-# 2. UI INITIALIZATION
+# 2.
 
 root = tk.Tk()
 root.title('News Summarizer')
