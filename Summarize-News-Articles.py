@@ -55,7 +55,7 @@ def summarize():
     sentiment.config(state='disabled')
 
 
-# ==========================================
+# ==================
 
 root = tk.Tk()
 root.title('News Summarizer')
